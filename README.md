@@ -6,6 +6,7 @@ This is a simple web application for tracking daily calorie intake and expenditu
 ## Table of Contents
 
 - [Description](#description)
+- [Link to the page](#Link) 
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
