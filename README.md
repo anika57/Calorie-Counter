@@ -6,18 +6,17 @@ This is a simple web application for tracking daily calorie intake and expenditu
 ## Table of Contents
 
 - [Description](#description)
-- [Link to the page](#Link) 
+- [Link](#link) 
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Description
 
 The Calorie Counter allows users to input their daily calorie budget and track the calories consumed from breakfast, lunch, dinner, snacks, and exercise. It calculates the remaining calorie allowance and displays it along with other relevant information such as total consumed calories and exercise calories burned.
 
-## Link to the page
+## Link
 https://anika57.github.io/Calorie-Counter/
 
 ## Features
